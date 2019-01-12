@@ -1,0 +1,13 @@
+{
+    "JUPYTER_URL": "/nbextensions/echarts-dbapac-js",
+    "GITHUB_URL": "https://jediwang311.github.io/echarts-dbapac-js/echarts-dbapac-js",
+    "JUPYTER_ENTRY": "echarts-dbapac-js/index",
+    "JS_FOLDER": "echarts-dbapac-js",
+    "PINYIN_MAP": {
+        "越南": "Vietnam"
+    },
+    "FILE_MAP": {
+        "apac": "apac",
+        "da": "da"
+    }
+}

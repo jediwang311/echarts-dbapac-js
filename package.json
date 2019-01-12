@@ -1,0 +1,10 @@
+{
+  "name": "echarts-dbapac-js",
+  "version": "1.0.0",
+  "description": "DBSchenker APAC region maps for echarts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jediwang",
+  "license": "MIT"
+}
